@@ -14,3 +14,8 @@
 6.[banana](https://www.kaggle.com/datasets/shifatearman/bananalsd)
 
 7.[mulberry](https://www.kaggle.com/datasets/nahiduzzaman13/mulberry-leaf-dataset?select=Mulberry+Data)
+
+
+# website
+Try it here
+[website](https://plant-disease-classifications.streamlit.app/)
