@@ -26,3 +26,4 @@ Try it here
 
 read it here
 
+[medium](https://medium.com/@chawanat.0531/การทำนายโรคพืช-c1e7c08dff4f)
