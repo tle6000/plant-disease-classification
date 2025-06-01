@@ -20,3 +20,9 @@
 Try it here
 
 [website](https://plant-disease-classifications.streamlit.app/)
+
+
+# medium
+
+read it here
+
